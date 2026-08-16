@@ -1,41 +1,25 @@
-# Compiled Lua sources
-luac.out
+UlIfHAVBigYFaWxpb:399: attempt to call missing method 'TextBox' of
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+table
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+Stack Begin Script 'LocalScript', Line 399 Stack End
 
-# Precompiled Headers
-*.gch
-*.pch
+UlIfHuKZnVbslteHL:439: attempt to call missing method 'TextBox' of
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
+table
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+Stack Begin
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+Script 'LocalScript', Line 439 Stack End
 
+UllfHYvfrBGjcaYrk:439: attempt to call missing method 'TextBox' of table
+
+Stack Begin
+
+Script 'LocalScript', Line 439 Stack End
+
+UlIfHJhZhsWSQxUvgxFrWjdlq:688 3: attempt to call missing method 'Load Autoload Config' of table
+
+Stack Begin
+
+Script 'LocalScript', Line 6883 Stack End
